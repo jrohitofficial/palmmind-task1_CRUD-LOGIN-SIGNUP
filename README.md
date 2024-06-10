@@ -5,7 +5,7 @@ User registration, login and CRUD action with backend restAPI using mongoDB, Nod
 
 
 
-[![flow](https://github.com/FRohit/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/development/MERN.gif)](https://github.com/FRohit/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/development/MERN.gif)
+[![flow](https://github.com/jrohitofficial/palmmind-task1_CRUD-LOGIN-SIGNUP/blob/master/MERN.gif?raw=true)](https://github.com/jrohitofficial/palmmind-task1_CRUD-LOGIN-SIGNUP/blob/master/MERN.gif)
 
 
 ##### Backend
